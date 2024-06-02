@@ -4,9 +4,10 @@
 import arcpy
 
 # Define the path to your project and the feature layer
+project_path = r"C:\Users\amir\Documents\ArcGIS\Projects\Arypy_project\Arypy_project.aprx"
 
-project_path = r"C:\Path\To\Your\ArcGISProject.aprx"
-layer_name = "YourLayerName"  # Change this to the name of your layer
+
+# Change this to the name of your layer
 
 # Open the project
 aprx = arcpy.mp.ArcGISProject(project_path)
