@@ -8,8 +8,7 @@ project_path = r"C:\Users\amir\Documents\ArcGIS\Projects\Arypy_project\Arypy_pro
 
 # Change this to the name of your layer
 # we have inside of our test arcpy project 3 different Layers(Point, Line, Insel) we use one of them:
-ayername =  "Point"
-
+layer_name =  "Point"
 
 # Open the project
 aprx = arcpy.mp.ArcGISProject(project_path)
