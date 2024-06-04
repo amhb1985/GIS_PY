@@ -76,3 +76,5 @@ del aprx
 # we must run our script and then we must do this scipte after the line: (running ArcGIS Pro Python environmen)
 "C:\Path\To\ArcGIS\Pro\bin\Python\envs\arcgispro-py3\python.exe" C:\Path\To\Your\Script\export_attribute_table.py
 
+#the next we can do our Project insdie of it 
+
