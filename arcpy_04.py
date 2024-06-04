@@ -72,3 +72,7 @@ print(f"Attribute table saved to {output_file_path}")
 # Clean up
 del aprx
 
+# after that we wrote the scripte inside of the our pythión file (here is export_attribute_table) 
+# we must run our script and then we must do this scipte after the line: (running ArcGIS Pro Python environmen)
+"C:\Path\To\ArcGIS\Pro\bin\Python\envs\arcgispro-py3\python.exe" C:\Path\To\Your\Script\export_attribute_table.py
+
