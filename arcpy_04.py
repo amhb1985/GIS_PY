@@ -43,3 +43,6 @@ if layer.isFeatureLayer:
 
 # Clean up
 del aprx
+
+
+#test again inside of arcpro with another project
