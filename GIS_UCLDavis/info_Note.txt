@@ -1,0 +1,3 @@
+
+#this is a note file to add some text and data to train and test in arc pro program in 
+the coursera in the learning course by UCLDavis
