@@ -41,8 +41,9 @@ SctionI_ Chapter1:
 Interactive Development Envirments(IDE)
 we can use diffrent type od IDE like "python IDLE", "eclipse","VS Code(Visual Studio code)", "Jupiter LAB"..
 I wanna use inside of my Mac(M1) with virtualle Windows (Paralles) python IDLE 3.12
-
 '''
+
+#now we are going to another Chapter as Chapter 2 to use and lean more about Modeling Builder
 
 
 
