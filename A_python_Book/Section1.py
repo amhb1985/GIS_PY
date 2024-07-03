@@ -44,6 +44,8 @@ I wanna use inside of my Mac(M1) with virtualle Windows (Paralles) python IDLE 3
 '''
 
 #now we are going to another Chapter as Chapter 2 to use and lean more about Modeling Builder
+# so Where we can find the 'model Builder' and the 'python IDE terminal '
+# in the "Analys "Tab we can find both of them 
 
 
 
