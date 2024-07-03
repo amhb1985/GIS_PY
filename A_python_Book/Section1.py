@@ -35,6 +35,17 @@ Chapter 3 : Primary Python Constructs
 Chapter 4:  write a simple py script for the geoprocessing
 
 '''
+'''
+SctionI_ Chapter1:
+
+Interactive Development Envirments(IDE)
+we can use diffrent type od IDE like "python IDLE", "eclipse","VS Code(Visual Studio code)", "Jupiter LAB"..
+I wanna use inside of my Mac(M1) with virtualle Windows (Paralles) python IDLE 3.12
+
+'''
+
+
+
 
 
 
