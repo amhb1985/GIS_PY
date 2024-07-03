@@ -48,7 +48,12 @@ I wanna use inside of my Mac(M1) with virtualle Windows (Paralles) python IDLE 3
 # in the "Analys "Tab we can find both of them 
 
 # its seem that the python IDEL in the arcpro working with Jupter Lab and Jupter Notbook
-#bcose the python terminal nam
+#bcose the python terminal name
+
+
+#chapter 2 :
+#now we try to set and create a Model with Model Builder in ArcPy
+#Demo2a >> using the ModelBuilder to ceate a Python Script
 
 
 
