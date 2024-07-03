@@ -47,6 +47,9 @@ I wanna use inside of my Mac(M1) with virtualle Windows (Paralles) python IDLE 3
 # so Where we can find the 'model Builder' and the 'python IDE terminal '
 # in the "Analys "Tab we can find both of them 
 
+# its seem that the python IDEL in the arcpro working with Jupter Lab and Jupter Notbook
+#bcose the python terminal nam
+
 
 
 
