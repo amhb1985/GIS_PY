@@ -21,14 +21,21 @@ ESRI Softwares :ArcView, ArcEditor, ArcInfo
 Python : Upper (Up) 2.6.5
 '''
 '''
+
 Section I : The Fundamental
 #this section one  have 3 diffrent Chapter that is follow:
+
 Chapter 1 : Python and ArcGIS
+is about the Interactive Devlopment Envirments (IDE) 
 
-Chapter 2 :
+Chapter 2 : Model builder
 
-Chapter 3 :
+Chapter 3 : Primary Python Constructs 
+
+Chapter 4:  write a simple py script for the geoprocessing
+
 '''
+
 
 
 
